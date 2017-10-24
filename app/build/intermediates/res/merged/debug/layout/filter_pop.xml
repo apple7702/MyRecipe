@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pop_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg19"
+    android:orientation="vertical">
+
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/iv_filterpop_return"
+            android:layout_width="10dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitStart"
+            android:src="@drawable/back3" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_1"
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Breakfast"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_2"
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Lunch"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_3"
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Dinner"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_4"
+
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Snack"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15dp"
+            android:text="Cook Time"
+            android:textColor="#000000"
+            android:textSize="20dp" />
+    </TableRow>
+
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_5"
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="&lt;15 min"
+            android:textSize="13dp"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_6"
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="15-30 min"
+            android:textAllCaps="false"
+            android:textColor="#000000"
+            android:textSize="13dp"/>
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_7"
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="30-45 min"
+            android:textAllCaps="false"
+            android:textColor="#000000"
+            android:textSize="13dp"/>
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_8"
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text=">45 min"
+            android:textAllCaps="false"
+            android:textColor="#000000"
+            android:textSize="13dp"/>
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15dp"
+            android:text="Ingredient"
+            android:textColor="#000000"
+            android:textSize="20dp" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_9"
+            android:layout_width="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Chicken"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_10"
+            android:layout_width="0dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Beef"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_11"
+            android:layout_width="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Pork"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_12"
+
+            android:layout_width="0dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Sea Food"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_13"
+            android:layout_width="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Vegetable/Fruit"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_14"
+            android:layout_width="0dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Rice/Noodle"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15dp"
+            android:text="Type"
+            android:textColor="#000000"
+            android:textSize="20dp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_15"
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="High Protein"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_16"
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Low Fat"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <CheckBox
+            android:id="@+id/cb_filterpop_17"
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Low Calorie"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_height="9dp"
+        android:layout_weight="2"></TableRow>
+
+    <TableRow
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/btn_filterpop_clear"
+            android:layout_width="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button2_selector"
+            android:text="Clear"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/btn_filterpop_confirm"
+            android:layout_width="0dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/button2_selector"
+            android:text="Confirm"
+            android:textAllCaps="false"
+            android:textColor="#000000" />
+
+    </TableRow>
+</TableLayout>

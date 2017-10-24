@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nutrition_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="8dp"
+        android:background="#000000" />
+
+
+    <TableRow>
+
+        <TextView
+            android:textSize="20dp"
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="Nutrition" />
+
+        <TextView
+            android:textSize="20dp"
+            android:layout_width="0dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="Content/100g" />
+
+    </TableRow>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#000000" />
+
+    <TableRow>
+
+        <TextView
+            android:textSize="18dp"
+
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="Calories"
+            android:textColor="#000000" />
+
+        <TextView
+            android:textSize="18dp"
+
+            android:id="@+id/tv_calories"
+            android:layout_width="0dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="xxxx" />
+
+    </TableRow>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#8b8888" />
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:textSize="18dp"
+
+            android:layout_marginRight="25dp"
+
+            android:layout_weight="1"
+            android:text="Fat"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/tv_fat"
+            android:layout_width="0dp"
+            android:layout_marginLeft="25dp"
+            android:textSize="18dp"
+
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="xxxxxx" />
+
+    </TableRow>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#8b8888" />
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="25dp"
+            android:textSize="18dp"
+
+            android:layout_weight="1"
+            android:text="Carbohydrate"
+            android:textColor="#000000" />
+
+        <TextView
+            android:textSize="18dp"
+
+            android:id="@+id/tv_carbohydrate"
+            android:layout_width="0dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="xxxx" />
+
+    </TableRow>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#8b8888" />
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="25dp"
+            android:textSize="18dp"
+
+            android:layout_weight="1"
+            android:text="Protein"
+            android:textColor="#000000" />
+
+        <TextView
+            android:textSize="18dp"
+
+            android:id="@+id/tv_protein"
+            android:layout_width="0dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="xxxx" />
+
+    </TableRow>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#8b8888" />
+
+    <TableRow>
+
+        <TextView
+            android:textSize="18dp"
+
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="Cholesterol"
+            android:textColor="#000000" />
+
+        <TextView
+            android:textSize="18dp"
+
+            android:id="@+id/tv_cholesterol"
+            android:layout_width="0dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="xxxx" />
+
+    </TableRow>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#8b8888" />
+
+    <TableRow>
+
+        <TextView
+            android:textSize="18dp"
+
+            android:layout_width="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="Sodium"
+            android:textColor="#000000" />
+
+        <TextView
+            android:textSize="18dp"
+
+            android:id="@+id/tv_sodium"
+            android:layout_width="0dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:text="xxxx" />
+
+    </TableRow>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        android:background="#8b8888" />
+
+
+</TableLayout>

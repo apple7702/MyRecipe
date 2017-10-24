@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg27"
+    tools:context=".AccountInit">
+
+
+    <TextView
+        android:id="@+id/tv_accountInit_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Welcome"
+        android:textColor="#ffffff"
+        android:textSize="45dp"
+        android:layout_marginLeft="15dp"
+        />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="2dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="15dp"
+        android:background="#ffffff"/>
+
+    <TextView
+        android:id="@+id/tv_accountInit_slogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="115dp"
+        android:text="Fresh recipes everday"
+        android:layout_marginLeft="15dp"
+        android:textColor="#ffffff"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/btn_accountInit_skip"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/tv_accountInit_welcome"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="340dp"
+        android:background="@drawable/button2_selector"
+        android:onClick="Browsing"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:text="Browsing"
+        />
+
+    <Button
+        android:id="@+id/btn_accountInit_signUp"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_alignLeft="@id/btn_accountInit_skip"
+        android:layout_below="@id/btn_accountInit_skip"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/button2_selector"
+        android:onClick="SignUp"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="23dp"
+        android:text="Sign Up"
+        />
+
+    <Button
+        android:id="@+id/btn_accountInit_logIn"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_alignRight="@id/btn_accountInit_skip"
+        android:layout_alignTop="@id/btn_accountInit_signUp"
+        android:layout_below="@id/btn_accountInit_skip"
+        android:background="@drawable/button2_selector"
+        android:onClick="LogIn"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="23dp"
+        android:text="Log In"
+        />
+
+</RelativeLayout>

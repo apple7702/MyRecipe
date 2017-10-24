@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/menu/main.xml"
+    }
+]

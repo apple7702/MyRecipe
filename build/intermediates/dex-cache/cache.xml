@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c1d35071cd7600f23a39ea339f1ccb7b38b89d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.android/build-cache/41a9249b82601c8523d56d7fc8befc2bb8ebe85b/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_05df520c176e9c9c5e09493a56ec5d4affcd6225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_14841dd5e3613ea21289bdf5b8ad93d139e6d931/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.android/build-cache/41a9249b82601c8523d56d7fc8befc2bb8ebe85b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_741757780269b6b008787fc2f7f144a15ef11826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.android/build-cache/0d3a1f7d8524ba32cb33a928bdaa817220595e50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1280d7ce263cd9597ab862131ebe309d89196950/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cacefcdcefa87d84e8872d4af5ade8a9dbd5f05a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_7bd296cb632974c07ac0b3d12520412b834ad49c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/Desktop/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d1a81e04e7c7497184c3a9288ab091a70300d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.android/build-cache/95a0a8e8ae33c236ab9cd26650557b5eb84c28b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_859fc4600905c5c7cc54d3ec632253cdacdf152d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/Desktop/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3cb9ac8058109d49988869d4ee72e6eadec2b26a">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84b77ab94792fd68e8af594d1bac4c980eb59169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.4/7abd1ecef320da6a7679b137083151401fe8bf43/MPAndroidChart-v2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.2.4_ce670762b3bcfaab270c0fc385fd62d2c48306f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiao/.android/build-cache/9a80b9915149a008a19a8509f196c253dd754f41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95e7f6573c4bfbcbb29c72ab83a6d45592e2c511/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,1306 @@
+[
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/alarm.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg32.jpeg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg32.jpeg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg2.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg2.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/point_normal.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/point_normal.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe35.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe35.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe17.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe17.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe7.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe7.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter_icon.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/filter_icon.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg3.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/alarm_bg3.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe21.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe21.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg7.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg7.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe9.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe9.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg9.jpeg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg9.jpeg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe32.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe32.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe18.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe18.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe37.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe37.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/point_seletor.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/point_seletor.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/edittext.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/breakfast1.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/breakfast1.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe1.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe1.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lunch.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/lunch.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_alarm_green.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_alarm_green.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/line.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/line.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg30.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg30.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_point.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/icon_point.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe22.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe22.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_user_green.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_user_green.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe27.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe27.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/round_editview.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/round_editview.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_plan.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/tab_plan.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/round_editview.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/round_editview.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe28.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe28.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_menu.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/tab_menu.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next3.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/next3.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_selector.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button_selector.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg6.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg6.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape1.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button_shape1.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe15.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe15.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe16.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe16.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lunch.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/lunch.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg7.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/alarm_bg7.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/test.jpeg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/test.jpeg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe25.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe25.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg31.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg31.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg1.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/alarm_bg1.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deleteline.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/deleteline.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_user_black.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_user_black.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/listview_shoppingcart.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/listview_shoppingcart.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_me.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/tab_me.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_alarm_black.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_alarm_black.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe34.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe34.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg1.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/alarm_bg1.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_me_normal.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_me_normal.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg2.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg2.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg8.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg8.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ponit_focus.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/ponit_focus.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/done.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/done.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe2.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe2.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button1.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button1.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/breakfast1.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/breakfast1.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/male.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/male.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe24.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe24.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe39.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe39.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button2.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_true.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/check_true.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe13.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe13.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe39.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe39.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe1.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe1.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_stub.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/icon_stub.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_menu_normal.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_menu_normal.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmi.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bmi.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg32.jpeg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg32.jpeg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe3.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe3.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button2.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmr.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bmr.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/userbg2.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/userbg2.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe38.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe38.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe3.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe3.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/finish.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/finish.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loop1.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/loop1.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_plan_green.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_plan_green.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe23.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe23.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/myrecipe.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/myrecipe.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe19.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe19.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe14.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe14.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg3.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/alarm_bg3.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unread_bg.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_unread_bg.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe13.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe13.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe24.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe24.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe8.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe8.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_alarm.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_alarm.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg2.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/alarm_bg2.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmr.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bmr.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe2.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe2.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2_selector.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button2_selector.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg7.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg7.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe29.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe29.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button6_selector.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button6_selector.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape2.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button_shape2.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe33.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe33.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe14.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe14.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button1.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button1.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ponit_focus.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/ponit_focus.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/point_normal.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/point_normal.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snack1.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/snack1.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe23.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe23.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_icon.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe20.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe20.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe33.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe33.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_trans.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/mm_trans.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe16.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe16.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe8.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe8.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg2.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/alarm_bg2.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg8.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg8.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe17.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe17.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe9.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe9.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/star2.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/star2.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/peichart.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/peichart.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/heart.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/heart.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg30.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg30.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/userbg2.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/userbg2.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe6.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe6.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg6.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg6.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_plan.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_plan.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_green.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/menu_green.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_bg_halo.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_bg_halo.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe35.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe35.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loop.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/loop.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_black.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/menu_black.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/line.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/line.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/edittext.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe29.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe29.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe34.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe34.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back3.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/back3.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user2.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/user2.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe7.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe7.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2_shape3.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button2_shape3.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe15.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe15.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/listview_shoppingcart.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/listview_shoppingcart.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button6_selector.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button6_selector.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dinner.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/dinner.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_me.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_me.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/next.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe32.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe32.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_empty.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/icon_empty.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2_shape1.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button2_shape1.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe4.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe4.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_bg.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_bg.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe21.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe21.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe10.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe10.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe28.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe28.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_menu.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_menu.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user2.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/user2.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe12.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe12.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe18.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe18.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe19.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe19.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/friendactivity_newnotice.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/friendactivity_newnotice.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe22.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe22.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe38.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe38.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yellow_star.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/yellow_star.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg4.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/alarm_bg4.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe37.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe37.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg4.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/alarm_bg4.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_item_d.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_item_d.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weight.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/weight.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape2.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button_shape2.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add2.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/add2.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/alarm_bg7.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/alarm_bg7.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_bg.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/tab_bg.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe31.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe31.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe4.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe4.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_false.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/check_false.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe26.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe26.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shoppingcart.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/shoppingcart.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2_selector.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button2_selector.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe12.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe12.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe25.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe25.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe11.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe11.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_alarm.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/tab_alarm.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dinner.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/dinner.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/password.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe5.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe5.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button3.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button3.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shoppingcart_on.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/shoppingcart_on.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe10.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe10.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg31.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg31.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe40.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe40.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/panda.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/panda.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2_shape1.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button2_shape1.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_point_pre.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/icon_point_pre.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe6.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe6.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_alarm_normal.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_alarm_normal.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/point_seletor.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/point_seletor.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_plan_normal.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_plan_normal.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button3.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button3.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_true.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/check_true.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg19.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg19.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe31.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe31.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/female.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/female.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape1.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/button_shape1.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe36.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe36.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe30.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe30.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/signup.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/signup.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_plan_black.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/tab_plan_black.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/test.jpeg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/test.jpeg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg19.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/bg19.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe5.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe5.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_error.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/icon_error.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/star.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/star.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snack1.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/snack1.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add1.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/add1.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe40.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe40.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deleteline.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/deleteline.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ringtong.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/ringtong.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg9.jpeg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg9.jpeg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe36.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe36.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe27.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe27.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button2_shape3.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button2_shape3.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe30.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe30.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_false.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/check_false.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe11.jpg",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/recipe11.jpg"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe20.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe20.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg27.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/bg27.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe26.jpg",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/recipe26.jpg"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/drawable-hdpi/loading.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_selector.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/drawable-hdpi/button_selector.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    }
+]

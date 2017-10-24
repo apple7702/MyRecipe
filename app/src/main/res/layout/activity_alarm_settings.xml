@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.yuexiao.myapplication.AlarmSettings"
+    android:background="@drawable/bg32">
+
+    <TableRow android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="cancel"
+            android:textAllCaps="false"
+            android:textColor="#000000"
+            android:background="@drawable/button2_selector"
+            android:id="@+id/btncancel"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:textColor="#000000"
+            android:text="save"
+            android:background="@drawable/button2_selector"
+            android:id="@+id/btnsave"/>
+    </TableRow>
+
+    <TableRow android:layout_weight="2">
+
+        <TimePicker
+            android:layout_marginTop="5dp"
+            android:id="@+id/tp_settime"
+            android:layout_width="400dp"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:background="@drawable/button2_shape1"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_weight="1"
+        >
+
+        <CheckBox
+            android:id="@+id/cbMon"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Mon" />
+
+        <CheckBox
+            android:id="@+id/cbTue"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Tue" />
+
+        <CheckBox
+            android:id="@+id/cbWed"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Wed" />
+
+        <CheckBox
+            android:id="@+id/cbThur"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Thur" />
+
+        <CheckBox
+            android:id="@+id/cbFri"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Fri" />
+
+        <CheckBox
+            android:id="@+id/cbSat"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Sat" />
+
+        <CheckBox
+            android:id="@+id/cbSun"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Sun" />
+
+    </TableRow>
+
+    <TableRow android:layout_height="wrap_content">
+
+        <TextView android:layout_weight="1" />
+
+        <CheckBox
+            android:id="@+id/cbRepeat"
+            android:layout_width="wrap_content"
+            android:text="Repeat"
+            android:textColor="#ffffff"/>
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginLeft="0dp"
+            android:background="#fbc8cde1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/trRingtone1"
+        android:layout_weight="1"
+        android:layout_marginTop="0.5dp">
+
+        <TextView
+            android:text="Ringtone"
+            android:textColor="#ffffff"
+            android:textSize="20dp"/>
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginLeft="0dp"
+            android:background="#fbc8cde1"
+            />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/trRingtone2"
+        android:layout_weight="0.5">
+
+
+        <TextView
+            android:id="@+id/tvRingtone"
+            android:text="null"
+            android:textColor="#777777" />
+    </TableRow>
+
+    <TableRow android:layout_weight="1">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ringtong" />
+
+        <SeekBar
+            android:id="@+id/sbVolume"
+            android:layout_width="0dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="8"
+            android:longClickable="true"
+            android:progress="10"
+            />
+    </TableRow>
+    <TableRow>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginLeft="0dp"
+            android:background="#fbc8cde1"
+            />
+    </TableRow>
+
+    <TableRow android:layout_weight="1">
+
+        <TextView
+            android:text="Title"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            />
+    </TableRow>
+
+
+    <TableRow android:layout_height="100dp">
+
+        <EditText
+            android:id="@+id/etTitle"
+            android:layout_weight="1"
+            android:background="@drawable/edittext"
+            android:textColor="#ffffff"
+            android:singleLine="true" />
+    </TableRow>
+
+</TableLayout>
+

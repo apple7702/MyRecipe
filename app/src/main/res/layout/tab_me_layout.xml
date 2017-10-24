@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_me"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcf9ee"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <TableRow>
+            <!--android:background="@drawable/userbg2">-->
+            <ImageView
+                android:id="@+id/ib_me_pic"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:layout_marginLeft="75dp"
+                android:src="@drawable/user2" />
+        </TableRow>
+    </TableLayout>
+
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="5dp">
+
+        <TableRow
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tr_me_1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/user"
+                android:textAllCaps="false"
+
+                />
+
+            <TextView
+
+                android:id="@+id/tv_me_1"
+                android:layout_width="100dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:paddingRight="10dp"
+                android:text="Crystal Zhao"
+                android:textColor="#000000" />
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tr_me_2"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector">
+
+            <ImageView
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/password"
+                android:textAllCaps="false" />
+
+            <TextView
+
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:paddingRight="10dp"
+                android:text="Reset password"
+                android:textColor="#000000" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp">
+
+        <TableRow
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tr_me_3"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:paddingBottom="2dp"
+                android:paddingTop="0dp"
+                android:scaleType="fitStart"
+                android:src="@drawable/peichart"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:paddingRight="10dp"
+                android:text="My Report"
+                android:textColor="#000000" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="1dp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tr_me_4"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/star2"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:paddingRight="10dp"
+                android:text="My favourite"
+                android:textColor="#000000" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tr_me_5"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_selector">
+
+            <ImageView
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/shoppingcart"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:paddingRight="10dp"
+                android:text="Shopping cart"
+                android:textColor="#000000" />
+
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

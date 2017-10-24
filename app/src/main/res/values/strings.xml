@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyRecipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="radio1_text">Menu</string>
+    <string name="radio2_text">Plan</string>
+    <string name="radio3_text">Alarm</string>
+    <string name="radio4_text">Me</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello">hello</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="aim">
+        <item>reduce fat</item>
+        <item>muscle buiding</item>
+        <item>keep fit</item>
+    </string-array>
+
+    <string-array name="occupation">
+        <item>white-collar worker</item>
+        <item>blue-collar worker</item>
+        <item>student</item>
+    </string-array>
+    <string-array name="exercise_type">
+        <item>running</item>
+        <item>race walking</item>
+        <item>ball game</item>
+        <item>body buiding</item>
+    </string-array>
+    <string-array name="exercise_frequency">
+        <item>1 time per week</item>
+        <item>3 times/per week</item>
+        <item>5 times per week</item>
+        <item>everyday</item>
+
+    </string-array>
+    <string-array name="exercise_duration">
+        <item>less than 15 days</item>
+        <item>15~30 days</item>
+        <item>30~60 days</item>
+        <item>60~120 days</item>
+        <item>more than 120 days</item>
+    </string-array>
+    <string-array name="exercise_time">
+        <item>before 7am</item>
+        <item>7am~11am</item>
+        <item>11am~14pm</item>
+        <item>14pm~18pm</item>
+        <item>18pm~22pm</item>
+        <item>after 22pm</item>
+    </string-array>
+</resources>

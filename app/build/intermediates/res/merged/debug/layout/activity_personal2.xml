@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcf9ee"
+
+    tools:context=".personal2">
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/blue"
+        android:text="Personal Information-2"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:paddingLeft="40dp">
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="30dp">
+
+            <TextView
+                android:layout_width="110dp"
+                android:text="Aim"
+                android:textColor="#000000" />
+
+            <Spinner
+                android:id="@+id/spn_personal2_aim"
+                android:layout_weight="1"
+                android:entries="@array/aim"
+
+                />
+
+
+            <TextView android:layout_width="60dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="30dp">
+
+
+            <TextView
+                android:layout_width="110dp"
+                android:text="Expected Weight"
+                android:textColor="#000000" />
+
+            <EditText
+                android:paddingLeft="15dp"
+                android:id="@+id/et_personal2_expectedweight"
+                android:layout_weight="1"
+                android:inputType="number"
+                android:background="@drawable/round_editview" />
+
+            <TextView
+                android:layout_width="60dp"
+                android:paddingLeft="5dp"
+                android:text="kg" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center">
+
+
+            <TextView
+                android:layout_width="110dp"
+                android:text="Duration"
+                android:textColor="#000000" />
+
+            <EditText
+                android:paddingLeft="15dp"
+android:inputType="number"
+                android:id="@+id/et_personal2_duration"
+                android:layout_weight="1"
+                android:background="@drawable/round_editview" />
+
+            <TextView
+                android:layout_width="60dp"
+                android:paddingLeft="5dp"
+                android:text="day" />
+        </TableRow>
+
+    </TableLayout>
+
+
+    <ImageButton
+        android:id="@+id/ib_personal2_next"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="centerCrop"
+        android:background="@null"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/next3" />
+
+    <ImageButton
+        android:id="@+id/ib_personal2_back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="centerCrop"
+        android:background="@null"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/back3" />
+
+</RelativeLayout>

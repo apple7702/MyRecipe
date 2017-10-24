@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#fcf9ee"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="0px"
+        android:layout_height="0px"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <LinearLayout
+        android:id="@+id/ll_activitymain_1"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:background="#35b9c8"
+
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_activitymain_1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="9">
+
+            <AutoCompleteTextView
+                android:id="@+id/actv_search"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/round_editview"
+                android:completionThreshold="1"
+                android:hint="search..."
+                android:imeOptions="actionSearch"
+                android:paddingLeft="35dp"
+                android:singleLine="true" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/search_icon" />
+
+        </RelativeLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#336699">
+
+            <ImageView
+                android:id="@+id/iv_main_filter"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:background="#35b9c8"
+
+                android:src="@drawable/filter_icon" />
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <RelativeLayout
+                android:background="#fcf9ee"
+
+                android:layout_width="fill_parent"
+                android:layout_height="230dp" >
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/ad_viewPage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="227dp"
+                    android:layout_centerHorizontal="true" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/ad_viewPage"
+                    android:background="#44000000"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+
+
+                    <LinearLayout
+                        android:id="@+id/ll_dian"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:padding="3dp" >
+                    </LinearLayout>
+                </LinearLayout>
+            </RelativeLayout>
+
+
+
+
+
+            <TextView
+                android:textColor="#3ab5cb"
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Latest Recipe"
+                android:textSize="20dp" />
+
+            <ListView
+                android:id="@+id/latest_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingBottom="2dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textColor="#3ab5cb"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Recommend Recipe"
+                android:textSize="20dp" />
+
+            <ListView
+                android:id="@+id/recommend_listview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:paddingBottom="2dp" />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

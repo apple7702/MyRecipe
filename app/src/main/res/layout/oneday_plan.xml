@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="240dp"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <View
+                    android:id="@+id/view_1"
+                    android:layout_width="3dp"
+                    android:layout_height="17dp"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginTop="8dp"
+                    android:background="#000000" />
+
+                <ImageView
+                    android:id="@+id/image"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="7dp"
+                    android:background="@null"
+                    android:src="@drawable/shoppingcart" />
+
+                <View
+                    android:layout_width="3dp"
+                    android:layout_height="215dp"
+                    android:layout_marginLeft="17dp"
+                    android:background="#000000" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#ffffff"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:background="@drawable/breakfast1">
+
+                    <TextView
+                        android:id="@+id/breakfast"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="Breakfast"
+                        android:textColor="#ffffff"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/kcal_user"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/breakfast"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/break_user"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/breakfast"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal_user"
+                        android:text="/"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommendkcal_user"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/breakfast"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/break_user"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/kcal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/breakfast"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/recommendkcal_user"
+                        android:text="kcal"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommend_percent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_below="@id/breakfast"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal"
+                        android:text="(50%)"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/time_user"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/kcal_user"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="07:00"
+                        android:textColor="#ffffff" />
+
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="#ffffff">
+
+
+                    <LinearLayout
+                        android:layout_width="250dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp">
+
+                        <ListView
+                            android:id="@+id/lv_breakfast"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+
+                    <ImageButton
+                        android:layout_marginTop="1dp"
+
+                        android:id="@+id/ib_plan_breakfast"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@null"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/add1" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="240dp"
+                android:orientation="vertical">
+
+                <View
+                    android:id="@+id/view_2"
+                    android:layout_width="3dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="17dp"
+                    android:background="#000000" />
+
+                <ImageView
+                    android:id="@+id/image2"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="7dp"
+                    android:background="@null"
+                    android:src="@drawable/shoppingcart" />
+
+                <View
+                    android:layout_width="3dp"
+                    android:layout_height="215dp"
+                    android:layout_marginLeft="17dp"
+                    android:background="#000000" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#ffffff"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="325dp"
+                    android:layout_height="180dp"
+                    android:background="@drawable/lunch">
+
+                    <TextView
+                        android:id="@+id/lunch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="Lunch"
+                        android:textColor="#ffffff"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/kcal_user2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/lunch"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/break_user2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/lunch"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal_user2"
+                        android:text="/"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommendkcal_user2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/lunch"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/break_user2"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/kcal2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/lunch"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/recommendkcal_user2"
+                        android:text="kcal"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommend_percent2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_below="@id/lunch"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal2"
+                        android:text="(50%)"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/time_user2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/kcal_user2"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="07:00"
+                        android:textColor="#ffffff" />
+
+
+                </RelativeLayout>
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="#ffffff">
+
+                    <LinearLayout
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp">
+
+                        <ListView
+                            android:id="@+id/lv_lunch"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+
+                    <ImageButton
+                        android:layout_marginTop="1dp"
+                        android:id="@+id/ib_plan_lunch"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@null"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/add1" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="240dp"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <View
+                    android:id="@+id/view_3"
+                    android:layout_width="3dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="17dp"
+                    android:background="#000000" />
+
+                <ImageView
+                    android:id="@+id/image3"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="7dp"
+                    android:background="@null"
+                    android:src="@drawable/shoppingcart" />
+
+                <View
+                    android:layout_width="3dp"
+                    android:layout_height="215dp"
+                    android:layout_marginLeft="17dp"
+                    android:background="#000000" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#ffffff"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="325dp"
+                    android:layout_height="180dp"
+                    android:background="@drawable/dinner">
+
+                    <TextView
+                        android:id="@+id/dinner"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="Dinner"
+                        android:textColor="#ffffff"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/kcal_user3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/dinner"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/break_user3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/dinner"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal_user3"
+                        android:text="/"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommendkcal_user3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/dinner"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/break_user3"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/kcal3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/dinner"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/recommendkcal_user3"
+                        android:text="kcal"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommend_percent3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_below="@id/dinner"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal3"
+                        android:text="(50%)"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/time_user3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/kcal_user3"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="07:00"
+                        android:textColor="#ffffff" />
+
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="#ffffff">
+
+                    <LinearLayout
+                        android:layout_width="250dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp">
+
+                        <ListView
+                            android:id="@+id/lv_dinner"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+
+                    <ImageButton
+                        android:layout_marginTop="1dp"
+
+                        android:id="@+id/ib_plan_dinner"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@null"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/add1" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="240dp"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <View
+                    android:id="@+id/view_4"
+                    android:layout_width="3dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="17dp"
+                    android:background="#000000" />
+
+                <ImageView
+                    android:id="@+id/image4"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="7dp"
+                    android:background="@null"
+                    android:src="@drawable/shoppingcart" />
+
+                <View
+                    android:layout_width="3dp"
+                    android:layout_height="215dp"
+                    android:layout_marginLeft="17dp"
+                    android:background="#000000" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+
+                android:layout_height="215dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#ffffff"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="325dp"
+                    android:layout_height="180dp"
+                    android:background="@drawable/snack1">
+
+                    <TextView
+                        android:id="@+id/snack"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="Snack"
+                        android:textColor="#ffffff"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/kcal_user4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/snack"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/break_user4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/snack"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal_user4"
+                        android:text="/"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommendkcal_user4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/snack"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/break_user4"
+                        android:text="xxx"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/kcal4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/snack"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/recommendkcal_user4"
+                        android:text="kcal"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/recommend_percent4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_below="@id/snack"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_toRightOf="@id/kcal4"
+                        android:text="(50%)"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:id="@+id/time_user4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/kcal_user4"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="07:00"
+                        android:textColor="#ffffff" />
+
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="#ffffff">
+
+                    <LinearLayout
+                        android:layout_width="250dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp">
+
+                        <ListView
+                            android:id="@+id/lv_snack"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+
+                    <ImageButton
+                        android:layout_marginTop="1dp"
+
+                        android:id="@+id/ib_plan_snack"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@null"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/add1" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

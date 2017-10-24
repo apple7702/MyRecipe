@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/pop_enter_anim.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/anim/pop_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/filterwin_ani.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/anim/filterwin_ani.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/filter_enter.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/anim/filter_enter.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/filter_exit.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/anim/filter_exit.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/filterwin_ani.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/anim/filterwin_ani.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/filter_enter.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/anim/filter_enter.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/pop_enter_anim.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/anim/pop_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/filter_exit.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/anim/filter_exit.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/pop_exit_anim.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/anim/pop_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/pop_exit_anim.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/anim/pop_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim/design_fab_out.xml"
+    }
+]

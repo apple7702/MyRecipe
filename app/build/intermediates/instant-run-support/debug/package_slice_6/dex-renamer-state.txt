@@ -1,0 +1,4 @@
+#Tue Oct 24 17:52:24 EDT 2017
+base.0=/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/xiao/Desktop/test/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

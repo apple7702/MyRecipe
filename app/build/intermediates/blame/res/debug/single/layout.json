@@ -1,0 +1,674 @@
+[
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_personal1.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_personal1.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/tab_me_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/tab_me_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_personal2.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_personal2.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/my_favourite.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/my_favourite.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/listview_shoppingcart.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/listview_shoppingcart.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/filter_pop.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/filter_pop.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/oneday_plan.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/oneday_plan.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_personal1.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_personal1.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_initial.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_initial.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/view_banner_content.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/view_banner_content.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/search_dialog.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/search_dialog.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_alarm_settings.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_alarm_settings.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/oneday_plan.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/oneday_plan.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/view_banner_content.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/view_banner_content.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_personal2.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_personal2.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/my_favourite.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/my_favourite.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/reset_password.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/reset_password.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_recipe_info.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_recipe_info.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_personal3.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_personal3.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/add_plan_dialog.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/add_plan_dialog.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/shopping_cart.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/shopping_cart.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_initial.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_initial.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/tab_alarm_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/tab_alarm_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/tab_menu_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/tab_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/filter_pop.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/filter_pop.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/pop_pic.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/pop_pic.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/fragment_nutrition.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/fragment_nutrition.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_account_init.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_account_init.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/listview_recipe_info.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/listview_recipe_info.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/alarm.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/alarm.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/tab_alarm_layout.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/tab_alarm_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/tab_plan_layout.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/tab_plan_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/search_dialog_result.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/search_dialog_result.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_result.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_log_in.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/alarm.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/alarm.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/tab_me_layout.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/tab_me_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/fragment_cook_steps.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/fragment_cook_steps.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/tab_menu_layout.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/tab_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/listview_recipe_info.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/listview_recipe_info.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/nutrition_list.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/nutrition_list.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/reset_password.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/reset_password.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/search_dialog.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/search_dialog.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/fragment_ingredient.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/fragment_ingredient.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/fragment_nutrition.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/fragment_nutrition.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_alarm_settings.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_alarm_settings.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/add_to_plan.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/add_to_plan.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/nutrition_list.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/nutrition_list.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/tab_plan_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/tab_plan_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/pop_pic.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/pop_pic.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/fragment_ingredient.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/fragment_ingredient.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_recipe_info.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_recipe_info.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_my_report.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_my_report.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/shopping_cart.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/shopping_cart.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/add_to_plan.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/add_to_plan.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/search_dialog_result.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/search_dialog_result.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_my_report.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_my_report.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/fragment_cook_steps.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/fragment_cook_steps.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_log_in.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_result.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/listview_shoppingcart.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/listview_shoppingcart.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/activity_personal3.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/activity_personal3.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_account_init.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/activity_account_init.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/listview_detailplan.xml",
+        "source": "/Users/xiao/Desktop/test/app/src/main/res/layout/listview_detailplan.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/add_plan_dialog.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/add_plan_dialog.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/yuexiao/Desktop/test1/app/build/intermediates/res/merged/debug/layout/listview_detailplan.xml",
+        "source": "/Users/yuexiao/Desktop/test1/app/src/main/res/layout/listview_detailplan.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/xiao/.android/build-cache/9c8bdcf13894b88c7074683282eceef882158a92/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/xiao/Desktop/test/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/xiao/.android/build-cache/c290b185544c5fbaa96ad9bdcdc07ff8d2713f87/output/res/layout/notification_template_big_media_narrow.xml"
+    }
+]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.test"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation|keyboardHidden|screenSize|navigation"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:launchMode="standard"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustPan|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Initial" />
+        <activity android:name=".AccountInit" />
+        <activity android:name=".LogIn" />
+        <activity android:name=".SignUp" />
+        <activity
+            android:name=".personal1"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name=".personal2"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity android:name=".personal3" />
+        <activity android:name=".tab_Menu" />
+        <activity android:name=".tab_Plan" />
+        <activity android:name=".tab_Alarm" />
+        <activity android:name=".tab_Me" />
+        <activity android:name=".AlarmActivity" />
+        <activity android:name=".AlarmSettings" />
+
+        <receiver
+            android:name=".AlarmReceiver"
+            android:process=":remote" />
+
+        <activity android:name=".RecipeInfo" />
+        <activity
+            android:name=".ResultActivity"
+            android:launchMode="singleTask" />
+        <activity android:name=".myReport" />
+        <activity android:name=".ResetPassword" />
+        <activity android:name=".myFavourite" />
+        <activity android:name=".shoppingCart" />
+    </application>
+
+</manifest>

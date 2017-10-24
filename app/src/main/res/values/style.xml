@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+
+    
+    
+    <!-- 按钮文字样式 -->
+    <style name="tab_text_color">
+        <item name="android:textColor">@color/tab_text</item>
+		<item name="android:textSize">12dp</item>  
+		<!-- 从左向右跑马灯效果 -->
+		<item name="android:ellipsize">marquee</item>   
+		<!-- 单行显示 -->
+		<item name="android:singleLine">true</item>   
+    </style>
+    
+    <!-- 按钮样式 -->
+    <style name="tab_button_bg">
+        <item name="android:textAppearance">@style/tab_text_color</item>
+ 		 <item name="android:gravity">center</item>  
+        <item name="android:background">@drawable/tab_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1</item> 
+    </style>
+
+    <style name="filter_anim" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/filter_enter</item>
+        <item name="android:windowExitAnimation">@anim/filter_exit</item>
+    </style>
+
+    <style name="photo_anim" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/pop_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/pop_exit_anim</item>
+    </style>
+
+
+
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+
+    <style name="search_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+
+</resources>

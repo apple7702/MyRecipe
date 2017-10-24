@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical"
+    tools:context=".SignUp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="150dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="0dp"
+            android:src="@drawable/signup" />
+
+        <ImageView
+            android:id="@+id/iv_signup_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:adjustViewBounds="true"
+            android:onClick="back"
+            android:paddingTop="0dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/back3" />
+
+        <TextView
+            android:id="@+id/tv_signup_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="20dp"
+            android:onClick="logIn"
+            android:text="LogIn"
+            android:textColor="#ffffff"
+            android:textSize="25dp" />
+
+
+    </RelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <TextView android:layout_weight="0.6" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1.4"
+                android:text="Account"
+
+                android:textSize="24dp"
+                android:textColor="#ffffff"/>
+
+            <AutoCompleteTextView
+                android:id="@+id/actv_signup_account"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:singleLine="true"
+                android:background="@null"
+                android:drawableBottom="@drawable/line"
+                android:textSize="25dp"
+                />
+
+            <TextView android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <TextView android:layout_weight="0.6" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1.4"
+                android:text="Password"
+                android:textColor="#ffffff"
+                android:textSize="24dp" />
+
+            <EditText
+                android:id="@+id/et_signup_password"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:inputType="textPassword"
+                android:singleLine="true"
+                android:textSize="25dp"
+                android:background="@null"
+                android:drawableBottom="@drawable/line"/>
+
+            <TextView android:layout_weight="1" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <TextView android:layout_weight="0.6" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1.4"
+                android:text="Confirm"
+                android:textSize="24dp"
+                android:textColor="#ffffff"/>
+
+
+            <EditText
+                android:id="@+id/et_signup_confirm"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:inputType="textPassword"
+                android:singleLine="true"
+                android:background="@null"
+                android:textSize="25dp"
+                android:drawableBottom="@drawable/line"/>
+
+            <TextView android:layout_weight="1" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_weight="2"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.7" />
+
+            <Button
+                android:id="@+id/btn_signup_getstart"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/button2_selector"
+                android:onClick="getStart"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:textSize="25dp"
+                android:text=" Get Start "
+                />
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.7" />
+        </TableRow>
+
+        <TableRow android:layout_weight="5"></TableRow>
+
+
+    </TableLayout>
+
+
+</LinearLayout>

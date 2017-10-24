@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/test"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="#fcf9ee"
+    >
+
+    <TableRow
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Date:" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_day1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Day 1" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_day2"
+
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Day 2" />
+    </TableRow>
+
+    <TableRow
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_day3"
+
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Day 3" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_day4"
+
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Day 4" />
+    </TableRow>
+
+    <TableRow
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_day5"
+
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Day 5" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_day6"
+
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Day 6" />
+    </TableRow>
+
+    <TableRow
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Meal:" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_breakfast"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Breakfast" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_lunch"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Lunch" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_dinner"
+
+
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Dinner" />
+
+        <CheckBox
+            android:id="@+id/cb_addtoplan_snack"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button6_selector"
+            android:button="@null"
+            android:text="Snack" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp">
+
+        <Button
+            android:id="@+id/btn_addtoplan_delete"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="-"
+            android:background="@drawable/button2_selector"/>
+
+        <TextView
+            android:layout_width="0dp"
+android:id="@+id/tv_addtoplan_quantity"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="1"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_addtoplan_add"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="+"
+            android:background="@drawable/button2_selector"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+
+        <Button
+            android:id="@+id/btn_addtoplan_cancel"
+            android:layout_marginLeft="20dp"
+
+            android:layout_weight="1.5"
+            android:background="@drawable/button2_selector"
+            android:text="Cancel" />
+
+
+        <Button
+            android:id="@+id/btn_addtoplan_confirm"
+            android:layout_marginLeft="20dp"
+
+            android:layout_marginRight="20dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/button2_selector"
+            android:text="Confirm" />
+
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_total"
+    android:layout_marginLeft="15dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/button2_shape1"
+    >
+
+    <TextView
+
+        android:id="@+id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="10:56"
+        android:textColor="#ffffff"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/tv_warn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/tv_time"
+        android:textSize="10dp" />
+
+
+    <TableLayout
+        android:id="@+id/ll_date"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/tv_time"
+        android:layout_below="@id/tv_warn"
+        android:layout_toRightOf="@id/tv_time"
+        android:gravity="center">
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="1dp"
+                android:id="@+id/tv_date1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mon\t"
+                android:layout_weight="1"
+                android:textColor="#ffffff"
+                android:textSize="9sp" />
+
+            <TextView
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="5dp"
+                android:id="@+id/tv_date2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tue\t"
+                android:textSize="9sp"
+                android:layout_weight="1"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="5dp"
+                android:id="@+id/tv_date3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Wed\t"
+                android:textSize="10sp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="5dp"
+                android:id="@+id/tv_date4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thur\t"
+                android:textSize="8sp"
+                android:layout_weight="1"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="5dp"
+                android:id="@+id/tv_date5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fri\t"
+                android:textSize="9sp"
+                android:textColor="#ffffff"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="5dp"
+                android:id="@+id/tv_date6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sat\t "
+                android:textSize="9sp"
+                android:textColor="#ffffff"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="5dp"
+                android:id="@+id/tv_date7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sun\t"
+                android:textSize="9sp"
+                android:textColor="#ffffff"
+                android:layout_weight="1"/>
+        </TableRow>
+
+    </TableLayout>
+
+
+    <ImageButton
+        android:id="@+id/ib_loop"
+        android:layout_width="29dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="17dp"
+        android:layout_alignLeft="@id/ll_date"
+        android:adjustViewBounds="true"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/loop" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/ib_loop"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp"
+        android:text="texttitle"
+        android:textColor="#ffffff" />
+
+
+    <ImageButton
+        android:layout_centerVertical="true"
+        android:id="@+id/ib_delete"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="3dp"
+        android:layout_toRightOf="@id/ll_date"
+        android:scaleType="centerInside"
+        android:background="@null"
+        android:src="@drawable/delete" />
+</RelativeLayout>
